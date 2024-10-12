@@ -1,7 +1,7 @@
 #!/bin/bash
 
-start=1
-end=10
+start=10
+end=30
 product=1
 
 for ((i=$start; i<=$end; i++))
